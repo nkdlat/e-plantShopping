@@ -1,0 +1,9 @@
+.about-us-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+.about-us-description {
+    color: #4CAF50;
+    font-size: 24px;
+}
